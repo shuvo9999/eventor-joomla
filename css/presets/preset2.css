@@ -1,0 +1,103 @@
+a {
+  color: #fb4a1b;
+}
+a:hover {
+  color: #df3204;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  color: #fb4a1b;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #fb4a1b;
+}
+#offcanvas-toggler >i {
+  color: #fff;
+}
+#offcanvas-toggler >i:hover {
+  color: #fb4a1b;
+}
+.btn-primary,
+.sppb-btn-primary {
+  background-color: #fb4a1b;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  background-color: #df3204;
+}
+ul.social-icons >li a:hover {
+  color: #fb4a1b;
+}
+.sp-page-title {
+  background: #fb4a1b;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #fb4a1b;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #fb4a1b;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #fb4a1b;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #fb4a1b;
+}
+.search .btn-toolbar button {
+  background: #fb4a1b;
+}
+.post-format {
+  background: #fb4a1b;
+}
+.voting-symbol span.star.active:before {
+  color: #fb4a1b;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #df3204;
+}
+.entry-link,
+.entry-quote {
+  background: #fb4a1b;
+}
+blockquote {
+  border-color: #fb4a1b;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #fb4a1b;
+}
+.sp-comingsoon body {
+  background-color: #fb4a1b;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #fb4a1b;
+  background-color: #fb4a1b;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #fb4a1b;
+  background-color: #fb4a1b;
+}
